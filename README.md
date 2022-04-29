@@ -121,6 +121,8 @@ As soon as you finish you must:
 
 * You can allocate as much time as needed, however focus on delivering your solution within 7 days from the moment of receiving the assignment. If more time is needed, please reach out to discuss the deadline
 
-How to run the Test
-Run the command mvn clean test
+### How to run the Test
+Run the command mvn clean test.
+
+### How to view the Execution Report
 View execution report available under path ExecutionResults/ExecutionResults.html

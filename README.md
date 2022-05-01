@@ -14,6 +14,9 @@
 * [How to deliver the assignment](how-to-deliver-the-assignment)
   * [What do you need to deliver to us](#what-do-you-need-to-deliver-to-us)
   * [How long do I have to deliver the assignment?](#how-long-do-i-have-to-deliver-the-assignment)
+*How to run the Test
+  *Run the Maven Command
+  *View the Execution Report
 
 ##  Description
 
